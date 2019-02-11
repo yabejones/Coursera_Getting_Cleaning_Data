@@ -33,64 +33,81 @@ The rest of the variables are all numeric, therefore I will cease specifying eac
 
 3 - 5: meanBodyAcc(XYZ)_time: Average mean Body Acceleration in the X-, Y-, and Z-axes,
 	 	time domain signal
+
 6 - 8: stdBodyAcc(XYZ)_time: Avg std Body Acceleration in the X-, Y-, and Z-axes,
 		time domain signal
 
 9 - 11: meanGravityAcc(XYZ)_time: Avg mean Gravity Acceleration in the X-, Y-, and Z-axes,
 		time domain signal
+
 12 - 14: stdGravityAcc(XYZ)_time: Avg std Gravity Acceleration in the X-, Y-, and Z-axes,
 		time domain signal
 
 15 - 17: meanBodyAccJerk(XYZ)_time: Avg mean Body Jerk Acceleration in the X-, Y-, and
 		Z-axes, time domain signal
+
 18 - 20: stdBodyAccJerk(XYZ)_time: Avg std Body Jerk Acceleration in the X-, Y-, and
 		Z-axes, time domain signal
 
 21 - 23: meanBodyGyro(XYZ)_time: Avg mean Body Gyroscope readings in the X-, Y-, and
 		Z-axes, time domain signal
+
 24 - 26: stdBodyGyro(XYZ)_time: Avg std Body Gyroscope readings in the X-, Y-, and Z-axes,
 		time domain signal
 		
 27 - 29: meanBodyGyroJerk(XYZ)_time: Avg mean Body Gyroscope Jerk readings in the X-, Y-,
 		and Z- axes, time domain signal
+
 30 - 32: stdBodyGyroJerk(XYZ)_time: Avg std Body Gyroscope Jerk readings in the X-, Y-,
 		and Z-axes, time domain signal
 
 33. meanBodyAccMag_time: Avg mean Body Acceleration Magnitude, time domain signal
+
 34. stdBodyAccMag_time: Avg std Body Acceleration Magnitude, time domain signal
 
 35. meanGravityAccMag_time: Avg mean Gravity Acceleration Magnitude, time domain signal
+
 36. stdGravityAccMag_time: Avg std Gravity Acceleration Magnitude, time domain signal
 
 37. meanBodyAccJerkMag_time: Avg mean Body Acceleration Jerk Magnitude, time domain signal
+
 38. stdBodyAccJerkMag_time: Avg std Body Acceleration Jerk Magnitude, time domain signal
 
 39. meanBodyGyroMag_time: Avg mean Body Gyroscope Magnitude, time domain signal
+
 40. stdBodyGyroMag_time: Avg std Body Gyroscope Magnitude, time domain signal
 
 41. meanBodyGyroJerkMag_time: Avg mean Body Gyroscope Jerk Magnitude, time domain signal
+
 42. stdBodyGyroJerkMag_time: Avg std Body Gyroscope Jerk Magnitude, time domain signal
 
 43 - 45: meanBodyAcc(XYZ)_fft: Avg mean Body Acceleration in the X-, Y-, and Z- axes, Fast 
 		Fourier Transform (FFT)
+
 46 - 48: stdBodyAcc(XYZ)_fft: Avg std Body Acceleration in the X-, Y-, and Z-axes, FFT
 
 49 - 51: meanBodyAccJerk(XYZ)_fft: Avg mean Body Acceleration Jerk in the X-, Y-, and 
 		Z-axes, FFT
+
 52 - 54: stdBodyAccJerk(XYZ)_fft: Avg std Body Acceleration Jerk in the X-, Y-, and
 		Z-axes, FFT
 		
 55 - 57: meanBodyGyro(XYZ)_fft: Avg mean Body Gyroscope in the X-, Y- and Z-axes, FFT
+
 58 - 60: stdBodyGyro(XYZ)_fft: Avg std Body Gyroscope in the X-, Y-, and Z-axes, FFT
 
 61. meanBodyAccMag_fft: Avg mean Body Acceleration Magnitude, FFT
+
 62. stdBodyAccMag_fft: Avg std Body Acceleration Magnitude, FFT
 
 63. meanBodyBodyAccJerkMag_fft: Avg mean Body-Body Acceleration Jerk Magnitude, FFT
+
 64. stdBodyBodyAccJerkMag_fft: Avg std Body-Body Acceleration Jerk Magnitude, FFT
 
 65. meanBodyBodyGyroMag_fft: Avg mean Body-Body Gyroscope Magnitude, FFT
+
 66. stdBodyBodyGyroMag_fft: Avg std Body-Body Gyroscope Magnitude, FFT
 
 67. meanBodyBodyGyroJerkMag_fft: Avg mean Body-Body Gyroscope Jerk Magnitude, FFT
+
 68. stdBodyBodyGyroJerkMag_fft: Avg std Body-Body Gyroscope Jerk Magnitude, FFT
