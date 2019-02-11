@@ -22,6 +22,13 @@ UCI_README.txt file which is from the data owners at UCI. I am an English major 
 may as well be in Greek, or perhaps Martian. I will do my best below.
 
 
+UNITS.
+While I was unable to determine exactly what units were used, my conclusion is that any
+measurement that had "Mag" (for "magnitude") in the name, may have been in Hertz (Hz),
+while the other measurements were in seconds. Again my science knowledge is insufficient
+to understand the UCI documentation and I will need to take my licking for my ignorance
+in this area. I do feel that in real life, we would know this information about the
+data we are analyzing. 
 
 
 
