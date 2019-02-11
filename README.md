@@ -15,7 +15,7 @@ standard deviations of readings, out of an original assortment of 561 columns.
 The data are from the UCI data repository and provided by Professor Leek on the Coursera
 website. 
 
-In my repository is the original README.txt file from the UCI folks, which explains the 
+In my repository is the original UCI_README.txt file from the UCI folks, which explains the 
 actual science (or math?) behind the data. I do not understand any of it and will take my 
 demerits in terms of this assignment, as I am unable to explain in any intelligible way.
 
