@@ -18,7 +18,7 @@ Three blanket rules govern column names:
 
 For an explanation of what the actual measurements mean ("BodyAcc", "BodyBodyGyroWhatever",
 what a time domain signal or a Fourier Fast Transform is etc.), please refer to the 
-ReadMe.txt file which is from the data owners at UCI. I am an English major and this
+UCI_README.txt file which is from the data owners at UCI. I am an English major and this
 may as well be in Greek, or perhaps Martian. I will do my best below.
 
 
