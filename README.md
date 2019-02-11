@@ -9,6 +9,8 @@ engaged in 6 different activities (walking, sitting, laying, standing, walking u
 The specific figures in each column represent an average of the multiple readings of mean 
 and standard deviations in a variety of motions in the X-, Y-, and Z- directions, 
 magnitudes etc. that were captured as the subjects engaged in the various activities.
+There were a total of 66 different measurement types (columns) pretaining to mean and 
+standard deviations of readings, out of an original assortment of 561 columns. 
 
 The data are from the UCI data repository and provided by Professor Leek on the Coursera
 website. 

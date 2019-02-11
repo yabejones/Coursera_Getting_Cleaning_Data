@@ -6,6 +6,9 @@ deviation values that comprised the original, large dataset. Thus these are a su
 by Subject and Activity. The dataset is 180 rows by 68 columns representing 30 subjects
 engaged in 6 different types of activities, and the resulting measurements.
 
+To be clear, the first two columns identify the subject and the activity; the other
+66 columns show the various "average mean" and "average standard deviation" measures.
+
 Three blanket rules govern column names:
 	a. prefix "mean" or "std" indicate whether the original value was a mean or standard
 		deviation.
@@ -17,6 +20,8 @@ For an explanation of what the actual measurements mean ("BodyAcc", "BodyBodyGyr
 what a time domain signal or a Fourier Fast Transform is etc.), please refer to the 
 ReadMe.txt file which is from the data owners at UCI. I am an English major and this
 may as well be in Greek, or perhaps Martian. I will do my best below.
+
+
 
 
 
