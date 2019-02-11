@@ -22,4 +22,24 @@ demerits in terms of this assignment, as I am unable to explain in any intelligi
 More specific information regarding abbreviations and conventions I used to name the
 columns are explained in the CodeBook.md file, also provided in this repository.
 
+
+LIBRARIES
+
+You will need the R packages pacman, tidyverse and data.table installed. Pacman is a
+utility that facilitates loading multiple libraries.
+
+
+What the Code Does
+
+I first manipulated the column names to select the ones containing "mean" and "std" but
+eliminating "meanfreq". This allowed me to immediately delete the unnecessary columns
+after importing the data, which I kept in the "test" and "train" files (not sure whether
+that was a good thing). 
+
+Next I cbinded the measurements in the X files with the subjects and activities, then 
+rbinded train and test together.
+
+Finally the combined dataset were summarised using dplyr. 
+
+
 Thank you and all my best to my classmates.
